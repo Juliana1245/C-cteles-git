@@ -38,4 +38,6 @@ Contenido:
 | Nombre | Apellido | Edad |
 | ------ | ---------| ---- |
 | Juliana |  López   | 18 |
+| Jose    |  Acosta  | 19 |
+
 
