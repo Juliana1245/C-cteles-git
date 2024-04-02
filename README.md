@@ -19,7 +19,7 @@ aquí con nosotros. Espero que disfrutes de las diferentes maneras de preparar c
 
 ![IMÁGEN](https://i.pinimg.com/originals/0b/82/37/0b82378e2eb117e29d6766d3f6483465.gif)
 
-Página:
+Tema:
 
 - [x] Cócteles
 - [ ] Terror
