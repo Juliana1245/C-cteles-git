@@ -1,2 +1,2 @@
-# C-cteles-git
+# Cocteles-git
 Es una página de Cócteles
