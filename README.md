@@ -32,6 +32,7 @@ Contenido:
 - [ ] Audios
 - [ ] Formularios
 - [ ] Login
+- [ ] Carrusel
 
 ## Tabla
 
